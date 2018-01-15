@@ -42,5 +42,5 @@ sudo service network restart
 ping www.baidu.com
 ```
 如果可以 ping 通，说明网络已经通了，可以正常上网了。
-_注：
+注：
 上述设置过程中的 IPADDR (IP地址)、NETMASK (子网掩码)、GATEWAY （网关）可以在设置前通过 ifconfig 命令查询。_
